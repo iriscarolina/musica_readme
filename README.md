@@ -1,10 +1,10 @@
 ## ♾️Índice
-[Projeto - Música](#📁projeto---música)  
-[Descrição](#📝descrição) 
-[Funcionalidades](#🔧funcionalidades)  
-[Tecnologias Utilizadas](#💻tecnologias-utilizadas)  
-[Fontes consultadas](#📃fontes-consultadas)  
-[Autores](#✒️autores)  
+[Projeto - Música](#projeto---m%C3%BAsica-)  
+[Descrição](#descri%C3%A7%C3%A3o)  
+[Funcionalidades](#funcionalidades)  
+[Tecnologias Utilizadas](#tecnologias-utilizadas)  
+[Fontes consultadas](#fontes-consultadas)  
+[Autores](#%EF%B8%8Fautores)  
 ## 📁Projeto - Música 🎵
 ![image info](_img/tela.png)
 ## 📝Descrição
@@ -19,7 +19,7 @@ O site é para você selecionar mais de um tipo de genêro musical e mostrar a q
 🔸HTML5  
 🔸CSS3  
 ## 📃Fontes consultadas  
-🔻https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+🔻[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom
 ## ✒️Autores  
 🤍[Maria Fernanda](https://github.com/MaferCastilho)  
 🖤[Janaina](https://github.com/janapaulinoo)  
